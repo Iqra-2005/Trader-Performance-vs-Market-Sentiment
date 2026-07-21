@@ -1,4 +1,4 @@
-# Trader Performance vs Market Sentiment — Hyperliquid Analysis
+# Trader Performance vs Market Sentiment - Hyperliquid Analysis
 
 Round-0 assignment: Data Science / Analytics Intern, Primetrade.ai
 
@@ -6,8 +6,6 @@ Round-0 assignment: Data Science / Analytics Intern, Primetrade.ai
 
 ```
 ├── Trader_Sentiment_Analysis.ipynb   # Main notebook — fully executed, all charts embedded
-├── notebook.py                       # Same notebook in plain-Python (jupytext) source form
-├── analysis.py                       # Standalone script version of the same pipeline
 ├── data/
 │   ├── historical_data__1_.csv       # Hyperliquid trade log (211,224 rows)
 │   └── fear_greed_index__1_.csv      # Bitcoin Fear/Greed Index (2,644 rows)
