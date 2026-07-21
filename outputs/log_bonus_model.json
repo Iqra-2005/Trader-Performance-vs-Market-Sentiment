@@ -1,0 +1,42 @@
+{
+  "accuracy": 0.677570093457944,
+  "baseline_majority_class_rate": 0.7681498829039812,
+  "n_train": 640,
+  "n_test": 214,
+  "classification_report": {
+    "0": {
+      "precision": 0.3582089552238806,
+      "recall": 0.48,
+      "f1-score": 0.41025641025641024,
+      "support": 50.0
+    },
+    "1": {
+      "precision": 0.8231292517006803,
+      "recall": 0.7378048780487805,
+      "f1-score": 0.7781350482315113,
+      "support": 164.0
+    },
+    "accuracy": 0.677570093457944,
+    "macro avg": {
+      "precision": 0.5906691034622804,
+      "recall": 0.6089024390243902,
+      "f1-score": 0.5941957292439608,
+      "support": 214.0
+    },
+    "weighted avg": {
+      "precision": 0.714503014206101,
+      "recall": 0.677570093457944,
+      "f1-score": 0.6921820954335905,
+      "support": 214.0
+    }
+  },
+  "feature_importances": {
+    "n_trades": 0.194,
+    "avg_trade_size_usd": 0.231,
+    "win_rate": 0.104,
+    "long_short_ratio": 0.082,
+    "net_long_bias": 0.116,
+    "sentiment_value": 0.133,
+    "daily_pnl": 0.14
+  }
+}

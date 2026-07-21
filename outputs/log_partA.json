@@ -1,0 +1,22 @@
+{
+  "trades_shape": [
+    211224,
+    16
+  ],
+  "fg_shape": [
+    2644,
+    4
+  ],
+  "trades_nulls": "0",
+  "fg_nulls": "0",
+  "trades_dupes": 0,
+  "fg_dupes": 0,
+  "date_min": "2023-05-01",
+  "date_max": "2025-05-01",
+  "fg_days_in_window": 731,
+  "trade_days_covered": 480,
+  "trades_unmatched_sentiment": 6,
+  "trades_used_for_analysis": 211218,
+  "n_accounts": 32,
+  "n_account_days": 2340
+}

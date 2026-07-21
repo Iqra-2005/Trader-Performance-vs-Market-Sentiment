@@ -1,0 +1,64 @@
+{
+  "size_segment_pnl_by_sentiment": {
+    "Fear": {
+      "Small size": 598.79,
+      "Mid size": 7547.33,
+      "Large size": 9847.39
+    },
+    "Neutral": {
+      "Small size": 1179.32,
+      "Mid size": 4874.73,
+      "Large size": 5594.92
+    },
+    "Greed": {
+      "Small size": 2910.33,
+      "Mid size": 7006.25,
+      "Large size": 2639.75
+    }
+  },
+  "freq_segment_pnl_by_sentiment": {
+    "Fear": {
+      "Infrequent": 3337.78,
+      "Moderate": 2446.88,
+      "Frequent": 10476.41
+    },
+    "Neutral": {
+      "Infrequent": 496.18,
+      "Moderate": 3912.01,
+      "Frequent": 5805.94
+    },
+    "Greed": {
+      "Infrequent": 1695.2,
+      "Moderate": 4553.94,
+      "Frequent": 7069.37
+    }
+  },
+  "consistency_segment_pnl_by_sentiment": {
+    "Fear": {
+      "Consistent winner": 6526.01,
+      "Inconsistent": 2995.07
+    },
+    "Neutral": {
+      "Consistent winner": 3208.64,
+      "Inconsistent": 3858.8
+    },
+    "Greed": {
+      "Consistent winner": 2992.82,
+      "Inconsistent": 6158.46
+    }
+  },
+  "n_accounts_per_size_segment": {
+    "Large size": 11,
+    "Small size": 11,
+    "Mid size": 10
+  },
+  "n_accounts_per_freq_segment": {
+    "Frequent": 11,
+    "Infrequent": 11,
+    "Moderate": 10
+  },
+  "n_accounts_per_consistency_segment": {
+    "Consistent winner": 16,
+    "Inconsistent": 16
+  }
+}

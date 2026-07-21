@@ -1,0 +1,76 @@
+{
+  "cluster_profile": {
+    "avg_trade_size": {
+      "0": 6888.1,
+      "1": 26329.29,
+      "2": 2929.73
+    },
+    "trades_per_active_day": {
+      "0": 51.28,
+      "1": 142.54,
+      "2": 218.56
+    },
+    "win_rate": {
+      "0": 0.83,
+      "1": 0.86,
+      "2": 0.85
+    },
+    "pct_profitable_days": {
+      "0": 0.44,
+      "1": 0.63,
+      "2": 0.79
+    },
+    "total_volume": {
+      "0": 10973844.06,
+      "1": 147663353.23,
+      "2": 28361423.82
+    },
+    "total_pnl": {
+      "0": 268240.18,
+      "1": 557314.73,
+      "2": 293287.78
+    }
+  },
+  "archetype_summary": {
+    "avg_trade_size": {
+      "High-Frequency Scalper": 2929.73,
+      "Retail / Casual Trader": 6888.1,
+      "Whale / Position Trader": 26329.29
+    },
+    "trades_per_active_day": {
+      "High-Frequency Scalper": 218.56,
+      "Retail / Casual Trader": 51.28,
+      "Whale / Position Trader": 142.54
+    },
+    "win_rate": {
+      "High-Frequency Scalper": 0.85,
+      "Retail / Casual Trader": 0.83,
+      "Whale / Position Trader": 0.86
+    },
+    "pct_profitable_days": {
+      "High-Frequency Scalper": 0.79,
+      "Retail / Casual Trader": 0.44,
+      "Whale / Position Trader": 0.63
+    },
+    "total_volume": {
+      "High-Frequency Scalper": 28361423.82,
+      "Retail / Casual Trader": 10973844.06,
+      "Whale / Position Trader": 147663353.23
+    },
+    "total_pnl": {
+      "High-Frequency Scalper": 293287.78,
+      "Retail / Casual Trader": 268240.18,
+      "Whale / Position Trader": 557314.73
+    },
+    "n_accounts": {
+      "High-Frequency Scalper": 9,
+      "Retail / Casual Trader": 18,
+      "Whale / Position Trader": 5
+    }
+  },
+  "labels": {
+    "0": "Retail / Casual Trader",
+    "1": "Whale / Position Trader",
+    "2": "High-Frequency Scalper"
+  }
+}

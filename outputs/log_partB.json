@@ -1,0 +1,79 @@
+{
+  "sentiment_performance": {
+    "n_account_days": {
+      "Fear": 790,
+      "Neutral": 376,
+      "Greed": 1174
+    },
+    "mean_daily_pnl": {
+      "Fear": 5185.146,
+      "Neutral": 3438.619,
+      "Greed": 4144.208
+    },
+    "median_daily_pnl": {
+      "Fear": 122.737,
+      "Neutral": 167.552,
+      "Greed": 265.248
+    },
+    "total_pnl": {
+      "Fear": 4096265.69,
+      "Neutral": 1292920.676,
+      "Greed": 4865300.584
+    },
+    "mean_win_rate": {
+      "Fear": 0.842,
+      "Neutral": 0.836,
+      "Greed": 0.856
+    },
+    "pct_profitable_days": {
+      "Fear": 0.604,
+      "Neutral": 0.622,
+      "Greed": 0.643
+    },
+    "mean_trades_per_day": {
+      "Fear": 105.363,
+      "Neutral": 100.229,
+      "Greed": 76.912
+    }
+  },
+  "avg_drawdown_by_sentiment": {
+    "Fear": -8863.19,
+    "Neutral": -9431.38,
+    "Greed": -8892.62
+  },
+  "mannwhitney_fear_vs_greed_pnl": {
+    "u_stat": 440966.0,
+    "p_value": 0.061826269243103936
+  },
+  "mannwhitney_fear_vs_greed_winrate": {
+    "u_stat": 248689.5,
+    "p_value": 0.2643849851637078
+  },
+  "behavior_by_sentiment": {
+    "mean_trades_per_day": {
+      "Fear": 105.363,
+      "Neutral": 100.229,
+      "Greed": 76.912
+    },
+    "mean_trade_size_usd": {
+      "Fear": 8529.86,
+      "Neutral": 6963.695,
+      "Greed": 5954.633
+    },
+    "mean_volume_usd": {
+      "Fear": 756720.318,
+      "Neutral": 479367.189,
+      "Greed": 351829.352
+    },
+    "mean_long_short_ratio": {
+      "Fear": 2.223,
+      "Neutral": 1.358,
+      "Greed": 1.3
+    },
+    "mean_net_long_bias": {
+      "Fear": 13.63,
+      "Neutral": 10.29,
+      "Greed": -3.819
+    }
+  }
+}
