@@ -34,13 +34,7 @@ Install the required libraries:
 pip install pandas numpy matplotlib seaborn scipy scikit-learn
 ```
 
-Run the analysis:
-
-```bash
-python analysis.py
-```
-
-Or open the notebook:
+Open the notebook:
 
 ```bash
 jupyter notebook Trader_Sentiment_Analysis.ipynb
