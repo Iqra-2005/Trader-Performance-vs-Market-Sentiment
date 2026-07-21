@@ -19,10 +19,9 @@
 │   ├── sentiment_performance_summary.csv
 │   └── sentiment_behavior_summary.csv
 ├── charts/
-│   └── All generated charts
-├── analysis.py
+│   └── All charts
 ├── README.md
-└── requirements.txt
+
 ```
 
 ---
